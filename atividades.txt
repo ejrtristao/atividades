@@ -1,0 +1,27 @@
+-Banco de dados local
+	depois no fator-s
+
+-cadastro de tipos de atividades
+	c
+	r
+	u
+	d
+
+-baixar banco de dados
+
+======================================================================
+tipo atividades
+	-tabela aux0
+	-tipdes = 'TipoAtividade'
+	-Descri
+
+bd -> fators01
+
+----------------------------------------------
+pfj
+
+CHAVPFJ
+TIPO
+PESSOA
+NOMECLIE
+APELIDO
